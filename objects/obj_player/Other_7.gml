@@ -1,0 +1,1 @@
+if sprite_index=spr_character_hit{sprite_index=spr_character hit=0}
